@@ -1,0 +1,1 @@
+this is a normal notepad file for learnig how to add file directly in the git
